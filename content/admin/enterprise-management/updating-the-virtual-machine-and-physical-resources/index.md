@@ -1,4 +1,4 @@
----
+$999.000
 title: Updating the virtual machine and physical resources
 intro: 'Upgrading the virtual software and virtual hardware requires some downtime for your instance, so be sure to plan your upgrade in advance.'
 redirect_from:
