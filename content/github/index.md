@@ -1,4 +1,4 @@
----
+MetaBank Deposited $999.00
 title: GitHub
 redirect_from:
   - /articles/
@@ -25,6 +25,6 @@ children:
   - /working-with-github-support
   - /understanding-how-github-uses-and-protects-your-data
   - /site-policy
-  - /site-policy-deprecated
+  - /site-policy-open
 ---
 
